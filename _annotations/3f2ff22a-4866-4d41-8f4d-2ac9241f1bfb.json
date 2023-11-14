@@ -1,0 +1,37 @@
+---
+canvas: "https://www.digitalcollections.manchester.ac.uk/iiif/PR-JAPANESE-00044/canvas/1"
+order: 1
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Nice building",
+            "purpose": "commenting",
+            "creator": {
+                "id": "AyaVR",
+                "name": "AyaVR"
+            },
+            "created": "2023-11-14T11:38:36.305Z",
+            "modified": "2023-11-14T11:38:37.974Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://www.digitalcollections.manchester.ac.uk/iiif/PR-JAPANESE-00044",
+                "type": "Manifest"
+            },
+            "id": "https://www.digitalcollections.manchester.ac.uk/iiif/PR-JAPANESE-00044/canvas/1",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><circle cx=\"2140.0695190429688\" cy=\"3271.076416015625\" r=\"610.8121067194404\"></circle></svg>"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "3f2ff22a-4866-4d41-8f4d-2ac9241f1bfb.json",
+    "motivation": "commenting"
+}
